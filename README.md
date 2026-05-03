@@ -48,11 +48,7 @@ The model is evaluated using classification metrics such as:
 (Displayed in console / can be integrated into UI)
 
 ---
+## Live Demo
+https://ai-trend-intelligence-6hyaqj7supdnvpdktfddf8.streamlit.app/
 
-## Run Locally
 
-```bash
-git clone https://github.com/yourusername/AI-Trend-Intelligence.git
-cd AI-Trend-Intelligence
-pip install -r requirements.txt
-streamlit run app.py
